@@ -1,4 +1,5 @@
 # Govee H6004 Bluetooth for Home Assistant
+This integration was made using AI. I had AI generate this integration because I could not get any existing HA integration to work with the Govee H6004 bulb. If it works, great, but keep in mind that it was created using AI.
 
 This custom integration uses Home Assistant's Bluetooth adapter or an active
 Bluetooth proxy. Home Assistant installs the pinned `govee-ble-local==1.10.0`
