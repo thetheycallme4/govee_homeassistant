@@ -1,4 +1,4 @@
-# Govee H6004 Bluetooth for Home Assistant
+# Govee H6004 Bluetooth for Home Assistant -- AI Generated: Do not run in prooduction
 
 This custom integration uses Home Assistant's Bluetooth adapter or an active
 Bluetooth proxy. Home Assistant installs the pinned `govee-ble-local==1.10.0`
