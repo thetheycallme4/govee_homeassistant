@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add a Govee H6004",
+        "description": "Enter the H6004 address shown in Home Assistant's Bluetooth Advertisement monitor.",
+        "data": {"address": "Bluetooth address"}
+      }
+    },
+    "error": {"invalid_address": "Enter an address in AA:BB:CC:DD:EE:FF format."},
+    "abort": {"already_configured": "This bulb is already configured."}
+  }
+}
